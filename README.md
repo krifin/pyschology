@@ -1,8 +1,5 @@
 ### A Virtual Reality approach for eHospitals
 The specific problems we would like to start on relate to VR-type simulations for people with certain anxiety disorders in professional settings, such as speaking in front of a group at work or attending an interview. They see a large number of people with such issues (here we are talking about people who avoid such interactions because of severe anxiety, not the normal nervousness that most people face).<br>
-<b> Developers: </b> Shreyas Iyer, Kushagra Khare <br>
-<b> Mentors: </b> Prof. T.K Srikanth, IIIT-B <br>
-<b> Project Duration: </b> Jan 2018 - May 2018 <br>
 
 ## Technologies used:
 <ul>
